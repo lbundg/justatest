@@ -16,6 +16,7 @@
 		EBB687981F53483100B32354 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBB687961F53483100B32354 /* LaunchScreen.storyboard */; };
 		EBB687A31F53483100B32354 /* firstTryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB687A21F53483100B32354 /* firstTryTests.swift */; };
 		EBB687AE1F53483100B32354 /* firstTryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB687AD1F53483100B32354 /* firstTryUITests.swift */; };
+		EBB687BC1F534EA600B32354 /* 29818165.png in Resources */ = {isa = PBXBuildFile; fileRef = EBB687BB1F534EA600B32354 /* 29818165.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		EBB687A91F53483100B32354 /* firstTryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = firstTryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBB687AD1F53483100B32354 /* firstTryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstTryUITests.swift; sourceTree = "<group>"; };
 		EBB687AF1F53483100B32354 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBB687BB1F534EA600B32354 /* 29818165.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 29818165.png; path = ../../../../29818165.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 			children = (
 				EBB687891F53483000B32354 /* AppDelegate.swift */,
 				EBB6878B1F53483000B32354 /* RootViewController.swift */,
+				EBB687BB1F534EA600B32354 /* 29818165.png */,
 				EBB6878D1F53483000B32354 /* DataViewController.swift */,
 				EBB6878F1F53483000B32354 /* ModelController.swift */,
 				EBB687911F53483100B32354 /* Main.storyboard */,
@@ -241,6 +244,7 @@
 				EBB687981F53483100B32354 /* LaunchScreen.storyboard in Resources */,
 				EBB687951F53483100B32354 /* Assets.xcassets in Resources */,
 				EBB687931F53483100B32354 /* Main.storyboard in Resources */,
+				EBB687BC1F534EA600B32354 /* 29818165.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
